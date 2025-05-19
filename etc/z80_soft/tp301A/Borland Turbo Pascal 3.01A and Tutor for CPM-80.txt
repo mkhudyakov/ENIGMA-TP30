@@ -1,0 +1,7 @@
+Borland Turbo Pascal 3.01A and Tutor
+Released in 1985 by Borland
+For CP/M-80
+
+Contains generic Turbo Pascal 3.01A for CP/M-80 and Borland Turbo Tutor files. 
+
+Source: Mabin archive
